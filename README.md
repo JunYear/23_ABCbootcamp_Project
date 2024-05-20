@@ -43,3 +43,7 @@ This technology can also be utilized in other industries, paving the way for a s
 - 강민혜 (Minhye Kang)
 - 이영호 (Youngho Lee)
 - 차지예 (Jiye Cha)
+
+## Credits
+### Used Open-Sources & Data
+- [공공데이터 포털](https://www.data.go.kr/)
