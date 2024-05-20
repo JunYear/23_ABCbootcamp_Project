@@ -1,12 +1,13 @@
 # "E4U (Earth For Youth)"
 > Predict your monthly electricity usage to build a better future.
 
-/* Prototype PNG */
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/785b95ed-f750-4e5d-be0c-44c37338d22e" width="31%">
   <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/bc8746a1-6e18-4528-b143-7eddea16a075" width="31%">
   <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/edb03a81-6862-4877-93de-847469d5bb47" width="31%">
 </div>
+
 
 ## Core Info
 ### What "E4U" is
