@@ -1,6 +1,13 @@
 # "E4U (Earth For Youth)"
 > Predict your monthly electricity usage to build a better future.
 
+/* Prototype PNG */
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/785b95ed-f750-4e5d-be0c-44c37338d22e" width="31%">
+  <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/bc8746a1-6e18-4528-b143-7eddea16a075" width="31%">
+  <img src="https://github.com/lv1231/23_ABCbootcamp_Project/assets/121210928/edb03a81-6862-4877-93de-847469d5bb47" width="31%">
+</div>
+
 ## Core Info
 ### What "E4U" is
 In short, "E4U" is a platform for managing energy usage, a major contributor to global warming.
@@ -35,4 +42,4 @@ This technology can also be utilized in other industries, paving the way for a s
 - 정준 (Jun Jeong)
 - 강민혜 (Minhye Kang)
 - 이영호 (Youngho Lee)
-- 차지예 (Jiye CHA)
+- 차지예 (Jiye Cha)
